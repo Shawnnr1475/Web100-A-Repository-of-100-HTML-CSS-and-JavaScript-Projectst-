@@ -1,0 +1,5 @@
+Fonts - Birthstone,Cinzel
+
+Color - #B29702
+
+Gradient - linear-gradient(51deg, #B29702 5.15%, #FFF 40.36, #B29702 82.94)
