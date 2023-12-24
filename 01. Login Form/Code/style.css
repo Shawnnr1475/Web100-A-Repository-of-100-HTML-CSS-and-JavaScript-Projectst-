@@ -35,6 +35,9 @@ Gradient - linear-gradient(51deg, #B29702 5.15%, #FFF 40.36, #B29702 82.94)*/
     height: 100vh;
 }
 
+.active{
+    display: block;
+}
 
 form{
     border-radius: 1.5625rem;
@@ -133,7 +136,6 @@ form> div> div > p:hover{
     cursor: pointer;
     
 }
-
 
 @keyframes sideUp {
     0%{
